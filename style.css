@@ -2,12 +2,19 @@
 
 * {
     border: 1px solid red;
+    
     font-family: 'Oswald', sans-serif;
     text-align: center;
 }
 
 #title {
     background: yellow;
+    margin-top: 20px;
+margin-right: 100px;
+margin-bottom: 20px;
+margin-left: 100px;
+    
+    padding:5px 30px;
     /*add CSS here*/
     
 }
@@ -15,12 +22,28 @@
 #subtitle {
     background: black;
     color: white;
+      margin-top: 10px;
+      margin:auto;
+margin-right: 100px;
+margin-bottom: 50px;
+margin-left: 100px;
+
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom:10px;
     /*add CSS here*/
     
 }
 
 .topic {
     background: lightgray;
+    display: inline-block;
+   padding:5px;
+    margin-right: 60px;
+    margin-left:60px;
+    margin-bottom: 70px;
+    
     /*add CSS here*/
     
 }
